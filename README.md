@@ -4,7 +4,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/status246/specification)](https://github.com/status246/specification/stargazers)
 [![Discussions](https://img.shields.io/github/discussions/status246/specification)](https://github.com/status246/specification/discussions)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-CC0-blue.svg)](LICENSE)
 
 ## What is Status 246?
 
@@ -50,7 +50,7 @@ AI systems with safety guardrails face a communication challenge:
 
 ## Quick Start
 
-- [📖 Read the Specification](specification/draft.md)
+- [📖 Read the Specification](https://status246.com)
 - [🛠 Implementation Guide](docs/implementation-guide.md)
 - [📋 Examples](examples/)
 - [💬 Join Discussion](https://github.com/status246/specification/discussions)
@@ -59,9 +59,9 @@ AI systems with safety guardrails face a communication challenge:
 
 | Platform | Status | Maintainer |
 |----------|--------|------------|
-| [Express.js](implementations/javascript/express/) | ✅ Complete | [@portkey-ai] |
-| [FastAPI](implementations/python/fastapi/) | ✅ Complete | [@portkey-ai] |
-| [Spring Boot](implementations/java/spring-boot/) | 🚧 In Progress | [@portkey-ai] |
+| [Express.js](implementations/javascript/express/) | ✅ Complete | [@roh26it] |
+| [FastAPI](implementations/python/fastapi/) | ✅ Complete | [@roh26it] |
+| [Spring Boot](implementations/java/spring-boot/) | 🚧 In Progress | [@roh26it] |
 | [Go Gin](implementations/go/gin/) | 📋 Planned | [Help wanted!](CONTRIBUTING.md) |
 | [Ruby on Rails](implementations/ruby/rails/) | 📋 Planned | [Help wanted!](CONTRIBUTING.md) |
 
@@ -90,8 +90,6 @@ Organizations using Status 246 in production:
 ## Community
 
 - [GitHub Discussions](https://github.com/status246/specification/discussions) - Technical discussions and Q&A
-- [Discord Server](#) - Real-time chat with the community
-- [Monthly Community Calls](community/meetings.md) - Regular sync meetings
 
 ## Specification Status
 
@@ -110,12 +108,8 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## License
 
-This specification is licensed under the [MIT License](LICENSE).
+This specification is licensed under the [CC0 1.0 Universal](LICENSE) license.
 
 ## Acknowledgments
 
-Special thanks to the HTTP Working Group and the broader developer community for their feedback and guidance.
-
----
-
-**Status 246** is pioneered by [Portkey AI](https://portkey.ai) as part of their commitment to transparent and responsible AI infrastructure.
+This specification is implemented and supported by [Portkey AI](https://portkey.ai) and other contributors to transparent AI infrastructure.
